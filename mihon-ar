@@ -1,6 +1,8 @@
-mihon-ar/
-├── index.min.json
-└── extensions/
+UmbraLord777/mihon-ar/
+├── index.min.json          <-- هذا ملف JSON داخل المستودع
+└── extensions/            <-- هذا مجلد داخل المستودع
+    ├── tachiyomi-all.ahottie-v1.4.2.apk
+    ├── tachiyomi-all.akuma-v1.4.7.apk
     ├── tachiyomi-all.comikey-v1.4.3.apk
     ├── tachiyomi-all.comicsvalley-v1.4.47.apk
     └── tachiyomi-all.comicskingdom-v1.4.2.apk
